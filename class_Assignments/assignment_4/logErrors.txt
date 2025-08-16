@@ -1,0 +1,2 @@
+line num of sumInt.txt: 6: has invalid value "helo" cannot add in a digit.
+line num of sumInt.txt: 7: has invalid value "five" cannot add in a digit.
